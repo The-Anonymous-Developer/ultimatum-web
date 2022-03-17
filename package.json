@@ -4,7 +4,7 @@
   "description": "The official website for The Ultimatum youtube channel.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/The-Anonymous-Developer/ultimatum-web/issues"
   },
-  "homepage": "https://github.com/The-Anonymous-Developer/ultimatum-web#readme"
+  "homepage": "https://github.com/The-Anonymous-Developer/ultimatum-web#readme",
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
