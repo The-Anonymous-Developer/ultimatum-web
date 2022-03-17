@@ -1,9 +1,12 @@
-import React, { Component } from "react"
+import React, { Component } from "react" 
 
 export default class extends Component {
   render () {
     return (
-      <title>The Ultimatum</title>
+     <head>
+        <title>The Ultimatum</title>
+        </head>
+        
     )
   }
 }
