@@ -1,0 +1,20 @@
+{
+  "name": "ultimatum-web",
+  "version": "1.0.0",
+  "description": "The official website for The Ultimatum youtube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Anonymous-Developer/ultimatum-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/The-Anonymous-Developer/ultimatum-web/issues"
+  },
+  "homepage": "https://github.com/The-Anonymous-Developer/ultimatum-web#readme"
+}
